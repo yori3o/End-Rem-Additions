@@ -1,0 +1,14 @@
+{
+  "required": true,
+  "package": "com.yori3o.endrem_additions.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "minVersion": "0.8",
+  "client": [
+  ],
+  "mixins": [
+    "JsonEyeMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

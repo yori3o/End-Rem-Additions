@@ -1,0 +1,37 @@
+modLoader = "javafml"
+loaderVersion = "[4,)"
+license = "MIT License"
+
+[[mods]]
+modId = "endrem_additions"
+version = "${version}"
+displayName = "End Remastered Additions"
+authors = "Yori3o"
+description = '''
+Expands on End Remastered by adding new unique eyes.
+'''
+logoFile = "logo.png"
+
+[[dependencies.endrem_additions]]
+modId = "neoforge"
+type = "required"
+versionRange = "[26.1,)"
+ordering = "NONE"
+side = "BOTH"
+
+[[dependencies.endrem_additions]]
+modId = "minecraft"
+type = "required"
+versionRange = "[26.1,)"
+ordering = "NONE"
+side = "BOTH"
+
+[[dependencies.endrem_additions]]
+modId = "endrem"
+type = "required"
+versionRange = "[6.2.0,)"
+ordering = "NONE"
+side = "BOTH"
+
+[[mixins]]
+config = "endrem_additions.mixins.json"

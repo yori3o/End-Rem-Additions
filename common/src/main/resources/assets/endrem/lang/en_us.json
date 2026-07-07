@@ -1,0 +1,39 @@
+{
+  "item.endrem.fishing_eye": "Fishing Eye",
+  "item.endrem.fishing_eye.description": "§7§oIt saw the underwater world better than any diver",
+
+  "item.endrem.blossom_eye": "Blossom Eye",
+  "item.endrem.blossom_eye.description": "§7§oCapable of blooming even in seemingly lifeless emptiness",
+
+  "item.endrem.potato_eye": "Potato Eye",
+  "item.endrem.potato_eye.description": "§7§oEven the dirt can produce miracles if you dig deep enough",
+
+  "item.endrem.trial_eye": "Trial Eye",
+  "item.endrem.trial_eye.description": "§7§oCreated to watch the brave, it shines brighter when the test is passed.",
+
+  "item.endrem.sculk_eye": "Sculk Eye",
+  "item.endrem.sculk_eye.description": "§7§oThis eye remembers the cries of those who broke the silence of the ancient city",
+
+  "item.endrem.aether_eye": "Aether Eye",
+  "item.endrem.aether_eye.description": "§7§oMysterious eye that watches over the entire dimension of Aether",
+
+
+  "advancements.main.fishing_eye.title": "Nice Catch!",
+  "advancements.main.fishing_eye.description": "Earn your first Fishing Eye",
+
+  "advancements.main.blossom_eye.title": "Power of Nature",
+  "advancements.main.blossom_eye.description": "Earn your first Blossom Eye",
+
+  "advancements.main.potato_eye.title": "Tuber of Destiny",
+  "advancements.main.potato_eye.description": "Earn your first Potato Eye",
+
+  "advancements.main.trial_eye.title": "A Probing Glance",
+  "advancements.main.trial_eye.description": "Earn your first Trial Eye",
+
+  "advancements.main.sculk_eye.title": "Silence hears everything...",
+  "advancements.main.sculk_eye.description": "Get your first Sculk Eye",
+
+  "advancements.main.aether_eye.title": "Eye of God",
+  "advancements.main.aether_eye.description": "Get your first Aether Eye"
+
+}

@@ -1,0 +1,28 @@
+{
+  "pools": [
+    {
+      "entries": [
+        {
+        "type": "item",
+        "name": "endrem:potato_eye",
+        "weight": 1
+      },
+      {
+        "type": "empty",
+        "weight": 333
+      }
+      ],
+      "rolls": 1.0,
+      "name": "eye_pool",
+      "conditions": [
+        {
+          "block": "minecraft:potatoes",
+          "condition": "minecraft:block_state_property",
+          "properties": {
+            "age": "7"
+          }
+        }
+      ]
+    }
+  ]
+}

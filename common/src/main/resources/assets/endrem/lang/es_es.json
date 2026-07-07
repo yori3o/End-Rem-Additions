@@ -1,0 +1,39 @@
+{
+"item.endrem.fishing_eye": "Ojo de Pesca",
+"item.endrem.fishing_eye.description": "§7§oVio el mundo submarino mejor que cualquier buceador",
+
+"item.endrem.blossom_eye": "Ojo Floreciente",
+"item.endrem.blossom_eye.description": "§7§oCapaz de florecer incluso en un vacío aparentemente sin vida",
+
+"item.endrem.potato_eye": "Ojo de Patata",
+"item.endrem.potato_eye.description": "§7§oIncluso la tierra puede obrar milagros si se excava lo suficientemente profundo",
+
+"item.endrem.trial_eye": "Ojo de Prueba",
+"item.endrem.trial_eye.description": "§7§oCreado para observar a los valientes, brilla con más fuerza cuando supera la prueba",
+
+"item.endrem.sculk_eye": "Ojo de Sculk",
+"item.endrem.sculk_eye.description": "§7§oEste ojo recuerda los gritos de quienes rompieron el silencio de la antigua ciudad",
+
+  "item.endrem.aether_eye": "Aether Eye",
+  "item.endrem.aether_eye.description": "§7§oMysterious eye that watches over the entire dimension of Aether",
+
+
+"advancements.main.fishing_eye.title": "¡Buena captura!",
+"advancements.main.fishing_eye.description": "Consigue tu primer Ojo de Pesca",
+
+"advancements.main.blossom_eye.title": "Poder de la Naturaleza",
+"advancements.main.blossom_eye.description": "Consigue tu primer Ojo de Flor",
+
+"advancements.main.potato_eye.title": "Tubérculo del Destino",
+"advancements.main.potato_eye.description": "Consigue tu primer Ojo de Patata",
+
+"advancements.main.trial_eye.title": "Una Mirada Inquisitiva",
+"advancements.main.trial_eye.description": "Consigue tu primer Ojo de Prueba",
+
+"advancements.main.sculk_eye.title": "El silencio lo oye todo...",
+"advancements.main.sculk_eye.description": "Consigue tu primer Ojo de Sculk",
+
+  "advancements.main.aether_eye.title": "Eye of God",
+  "advancements.main.aether_eye.description": "Get your first Aether Eye"
+
+}

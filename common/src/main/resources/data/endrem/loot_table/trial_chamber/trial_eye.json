@@ -1,0 +1,19 @@
+{
+  "pools": [
+    {
+      "entries": [
+        {
+        "type": "item",
+        "name": "endrem:trial_eye",
+        "weight": 33
+      },
+      {
+        "type": "empty",
+        "weight": 66
+      }
+      ],
+      "rolls": 1.0,
+      "name": "eye_pool"
+    }
+  ]
+}

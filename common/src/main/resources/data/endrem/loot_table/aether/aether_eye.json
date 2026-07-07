@@ -1,0 +1,19 @@
+{
+  "pools": [
+    {
+      "entries": [
+        {
+        "type": "item",
+        "name": "endrem:aether_eye",
+        "weight": 25
+      },
+      {
+        "type": "empty",
+        "weight": 75
+      }
+      ],
+      "rolls": 1.0,
+      "name": "eye_pool"
+    }
+  ]
+}

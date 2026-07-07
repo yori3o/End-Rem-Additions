@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "id": "endrem_additions",
+  "version": "${version}",
+  "name": "End Remastered Additions",
+  "description": "Expands on End Remastered by adding new unique eyes.",
+  "authors": [
+    "Yori3o"
+  ],
+  "contact": {
+    "homepage": "https://modrinth.com/mod/end-remastered-additions"
+  },
+  "license": "MIT",
+  "icon": "logo.png",
+  "environment": "*",
+  "entrypoints": {
+  },
+  "mixins": [
+    "endrem_additions.mixins.json"
+  ],
+  "depends": {
+    "minecraft": ">=26.1",
+    "fabric-api": "*",
+    "endrem": "*"
+  }
+}

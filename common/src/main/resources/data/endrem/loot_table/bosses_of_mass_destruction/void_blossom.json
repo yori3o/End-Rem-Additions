@@ -1,0 +1,14 @@
+{
+  "pools": [
+    {
+      "entries": [
+        {
+        "type": "item",
+        "name": "endrem:blossom_eye"
+      }
+      ],
+      "rolls": 1.0,
+      "name": "eye_pool"
+    }
+  ]
+}

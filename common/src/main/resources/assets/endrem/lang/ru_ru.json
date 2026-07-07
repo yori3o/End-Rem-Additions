@@ -1,0 +1,38 @@
+{
+  "item.endrem.fishing_eye": "Око Рыбалки",
+  "item.endrem.fishing_eye.description": "§7§oОно видело подводный мир лучше любого дайвера",
+
+  "item.endrem.blossom_eye": "Цветущее Око",
+  "item.endrem.blossom_eye.description": "§7§oСпособно цвести даже в, казалось, безжиненной пустоте",
+
+  "item.endrem.potato_eye": "Картофельное Око",
+  "item.endrem.potato_eye.description": "§7§oДаже земля способна взрастить чудеса, если копнуть достаточно глубоко",
+
+  "item.endrem.trial_eye": "Око Испытания",
+  "item.endrem.trial_eye.description": "§7§oСоздано, чтобы наблюдать за храбрыми. Оно сверкает ярче, когда испытание пройдено",
+
+  "item.endrem.sculk_eye": "Око Тьмы",
+  "item.endrem.sculk_eye.description": "§7§oЭто око помнит крики тех, кто нарушил безмолвие древнего города",
+
+  "item.endrem.aether_eye": "Око Эфира",
+  "item.endrem.aether_eye.description": "§7§oТаинственное око, что следит за всем измерением Эфира",
+
+
+  "advancements.main.fishing_eye.title": "Клёвый улов!",
+  "advancements.main.fishing_eye.description": "Заполучите своё первое Око Рыбалки",
+
+  "advancements.main.blossom_eye.title": "Сила природы",
+  "advancements.main.blossom_eye.description": "Заполучите своё первое Цветущее Око",
+
+  "advancements.main.potato_eye.title": "Клубень судьбы",
+  "advancements.main.potato_eye.description": "Заполучите своё первое Картофельное Око",
+
+  "advancements.main.trial_eye.title": "Испытующий взгляд",
+  "advancements.main.trial_eye.description": "Заполучите своё первое Око Испытания",
+
+  "advancements.main.sculk_eye.title": "Тишина слышит всё...",
+  "advancements.main.sculk_eye.description": "Заполучите своё первое Око Тьмы",
+
+  "advancements.main.aether_eye.title": "Глаз бога",
+  "advancements.main.aether_eye.description": "Заполучите своё первое Око Эфира"
+}

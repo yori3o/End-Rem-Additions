@@ -1,0 +1,38 @@
+{
+"item.endrem.fishing_eye": "钓鱼之眼",
+"item.endrem.fishing_eye.description": "§7§o它比任何潜水员都更能洞察水下世界",
+
+"item.endrem.blossom_eye": "花之眼",
+"item.endrem.blossom_eye.description": "§7§o即使在看似毫无生机的虚空之中也能绽放光芒",
+
+"item.endrem.potato_eye": "土豆之眼",
+"item.endrem.potato_eye.description": "§7§o即使是泥土，只要你挖得足够深，也能创造奇迹",
+
+"item.endrem.trial_eye": "试炼之眼",
+"item.endrem.trial_eye.description": "§7§o为守护勇敢者而生，在通过考验时，它会更加闪耀。",
+
+"item.endrem.sculk_eye": "Sculk之眼",
+"item.endrem.sculk_eye.description": "§7§o这只眼睛铭记着那些打破古城沉寂之人的呼喊",
+
+  "item.endrem.aether_eye": "Aether Eye",
+  "item.endrem.aether_eye.description": "§7§oMysterious eye that watches over the entire dimension of Aether",
+
+"advancements.main.fishing_eye.title": "钓得漂亮！",
+"advancements.main.fishing_eye.description": "获得你的第一个钓鱼之眼",
+
+"advancements.main.blossom_eye.title": "自然的力量",
+"advancements.main.blossom_eye.description": "获得你的第一个花眼",
+
+"advancements.main.potato_eye.title": "命运的块茎",
+"advancements.main.potato_eye.description": "获得你的第一个土豆之眼",
+
+"advancements.main.trial_eye.title": "探究的一瞥",
+"advancements.main.trial_eye.description": "获得你的第一个试验之眼",
+
+"advancements.main.sculk_eye.title": "寂静无声，万物皆可听见……",
+"advancements.main.sculk_eye.description": "获得你的第一只 Sculk Eye",
+
+  "advancements.main.aether_eye.title": "Eye of God",
+  "advancements.main.aether_eye.description": "Get your first Aether Eye"
+
+}

@@ -1,0 +1,38 @@
+{
+"item.endrem.fishing_eye": "Рибальське око",
+"item.endrem.fishing_eye.description": "§7§oВоно бачило підводний світ краще за будь-якого дайвера",
+
+"item.endrem.blossom_eye": "Квітуче око",
+"item.endrem.blossom_eye.description": "§7§oЗдатне цвісти навіть у, здавалося б, безжиттєвій порожнечі",
+
+"item.endrem.potato_eye": "Картопляне око",
+"item.endrem.potato_eye.description": "§7§oНавіть бруд може творити дива, якщо копати достатньо глибоко",
+
+"item.endrem.trial_eye": "Випробувальне око",
+"item.endrem.trial_eye.description": "§7§oСтворене, щоб спостерігати за сміливцями, воно сяє яскравіше, коли випробування пройдено.",
+
+"item.endrem.sculk_eye": "Око підступу",
+"item.endrem.sculk_eye.description": "§7§oЦе око пам'ятає крики тих, хто порушив тишу стародавнього міста",
+
+  "item.endrem.aether_eye": "Aether Eye",
+  "item.endrem.aether_eye.description": "§7§oMysterious eye that watches over the entire dimension of Aether",
+
+"advancements.main.fishing_eye.title": "Гарний улов!",
+"advancements.main.fishing_eye.description": "Заробіть своє перше Рибальське Око",
+
+"advancements.main.blossom_eye.title": "Сила Природи",
+"advancements.main.blossom_eye.description": "Заробіть своє перше Квітуче Око",
+
+"advancements.main.potato_eye.title": "Бульба Долі",
+"advancements.main.potato_eye.description": "Заробіть своє перше Картопляне Око",
+
+"advancements.main.trial_eye.title": "Зондуючий Погляд",
+"advancements.main.trial_eye.description": "Заробіть своє перше Пробне Око",
+
+"advancements.main.sculk_eye.title": "Тиша чує все...",
+"advancements.main.sculk_eye.description": "Отримайте своє перше Око Скалку",
+
+  "advancements.main.aether_eye.title": "Eye of God",
+  "advancements.main.aether_eye.description": "Get your first Aether Eye"
+
+}
